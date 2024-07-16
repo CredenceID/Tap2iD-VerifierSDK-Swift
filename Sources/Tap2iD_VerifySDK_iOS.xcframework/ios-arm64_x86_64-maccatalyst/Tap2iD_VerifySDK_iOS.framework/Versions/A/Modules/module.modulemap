@@ -1,0 +1,6 @@
+framework module Tap2iD_VerifySDK_iOS {
+  umbrella header "Tap2iD_VerifySDK_iOS.h"
+  export *
+
+  module * { export * }
+}
