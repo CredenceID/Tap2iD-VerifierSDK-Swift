@@ -9,22 +9,21 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "Tap2iD-VerifyerSDK-Swift",
-            targets: ["Tap2iD-VerifyerSDK-Swift", "Identity-Utils"]),
+            targets: ["Tap2iD-VerifierSDK", "Identity-Utils"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/CredenceID/C-Identity-Utils-Swift-Package.git", from: "0.1.9")
-
+        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", from: "3.1.5004")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
 
         .binaryTarget(
-            name: "Tap2iD-VerifyerSDK-Swift",
-            path: "./Sources/Tap2iD_VerifySDK_iOS.xcframework"
+            name: "Tap2iD-VerifierSDK",
+            path: "./Sources/Tap2iD-VerifierSDK.xcframework"
         ),
         .target(
             name: "Identity-Utils",
-            dependencies: ["C-Identity-Utils-Swift-Package"])
+            dependencies: ["OpenSSL"])
     ]
 )
