@@ -1,6 +1,0 @@
-framework module CIdentitySwift {
-  umbrella header "CIdentitySwift.h"
-  export *
-
-  module * { export * }
-}

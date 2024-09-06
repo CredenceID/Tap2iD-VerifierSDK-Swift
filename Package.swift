@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "Tap2iD-VerifyerSDK-Swift",
-            targets: ["Tap2iD-VerifierSDK", "Identity-Utils"]),
+            targets: ["Tap2iDVerifierSDK", "Identity-Utils"]),
     ],
     dependencies: [
         .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", from: "3.1.5004")
@@ -19,8 +19,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
 
         .binaryTarget(
-            name: "Tap2iD-VerifierSDK",
-            path: "./Sources/Tap2iD-VerifierSDK.xcframework"
+            name: "Tap2iDVerifierSDK",
+            path: "./Sources/Tap2iDVerifierSDK.xcframework"
         ),
         .target(
             name: "Identity-Utils",
