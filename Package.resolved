@@ -1,31 +1,13 @@
 {
-  "originHash" : "548e06ac56b2fea9c3bc627d652900f538b57c8eb263b2ceeabb912b88e7a18c",
+  "originHash" : "088f383dbfb1706630aefe5d93b3d18fd1690cc5d486e4950dedf7bd1c607d17",
   "pins" : [
-    {
-      "identity" : "c-identity-swift-package",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CredenceID/C-Identity-Swift-Package.git",
-      "state" : {
-        "revision" : "41acc04b4b146fb8beec396260500be6a7f7d028",
-        "version" : "0.1.7"
-      }
-    },
-    {
-      "identity" : "c-identity-utils-swift-package",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CredenceID/C-Identity-Utils-Swift-Package.git",
-      "state" : {
-        "revision" : "7241701dd865a6494b4a4c5d9169567efd3565f3",
-        "version" : "0.1.9"
-      }
-    },
     {
       "identity" : "openssl",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
       "state" : {
-        "revision" : "bcc4f4d121d45ad388168f26559aa51a7ffb77d6",
-        "version" : "3.1.5007"
+        "revision" : "7405324f9b1a64a79e5fa3660d2eda901d1337f2",
+        "version" : "3.3.1000"
       }
     }
   ],
