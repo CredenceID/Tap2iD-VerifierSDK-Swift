@@ -22757,20 +22757,6 @@
     },
     {
       "filePath": "\/Users\/cybadmin\/Desktop\/Tap2iD Mobile\/SDK\/Framework\/New\/Tap2iDVerifierSDK-Swift\/Tap2iDVerifierSDK\/CIdentitySwift\/Utils\/Other\/BLEPeripheralHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1304,
-      "length": 40,
-      "value": "\"Bytes received = \""
-    },
-    {
-      "filePath": "\/Users\/cybadmin\/Desktop\/Tap2iD Mobile\/SDK\/Framework\/New\/Tap2iDVerifierSDK-Swift\/Tap2iDVerifierSDK\/CIdentitySwift\/Utils\/Other\/BLEPeripheralHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1343,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/cybadmin\/Desktop\/Tap2iD Mobile\/SDK\/Framework\/New\/Tap2iDVerifierSDK-Swift\/Tap2iDVerifierSDK\/CIdentitySwift\/Utils\/Other\/BLEPeripheralHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1222,
       "length": 1,

@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		YX9dHGLX3IdvSWfR0P23QC48Ymg=
+		ABJ5X1+Eh5klvytgx6GQDeDR53Y=
 		</data>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		YX9dHGLX3IdvSWfR0P23QC48Ymg=
+		ABJ5X1+Eh5klvytgx6GQDeDR53Y=
 		</data>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			udkuGLCbYOGfWXmWyddDWMSYabhrvZWp+4Quizy9Wrc=
+			iPlbUe1ytRTCnwqwGsJHZbLvj3+XrqnqJ2KmOsKJe+4=
 			</data>
 		</dict>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -128,7 +128,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			udkuGLCbYOGfWXmWyddDWMSYabhrvZWp+4Quizy9Wrc=
+			iPlbUe1ytRTCnwqwGsJHZbLvj3+XrqnqJ2KmOsKJe+4=
 			</data>
 		</dict>
 		<key>Modules/Tap2iDVerifierSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
